@@ -4,7 +4,10 @@
 
 int m1[2][2], m2[2][2], sm[2][2], soma, s1, s2, i, j, maior;
 bool inc = true;
- //Essa é a primeia questão de L.P
+ //Essa é a primeira questão de L.P
+ //brevemente vem  segunda
+ 
+ 
 
 
 
